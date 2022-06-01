@@ -1,0 +1,472 @@
+{
+  "basics": {
+    "name": "Gu... Lhe...",
+    "email": "l***g@gmail.com",
+    "label": "Crafteur, \"Coach\" [Dev', Méthodo', Orga']",
+    "location": {
+      "address": "█████████████",
+      "postalCode": "94███",
+      "city": "██████████",
+      "countryCode": "FR"
+    },
+    "phone": "+3367......3",
+    "profiles": [
+      {
+        "network": "stack Overflow",
+        "username": "Ar3s",
+        "url": "https://stackoverflow.com/users/112637/ar3s",
+        "relevant": "not all that much"
+      },
+      {
+        "network": "GitHub",
+        "username": "GuLhe",
+        "url": "https://github.com/gulhe",
+        "relevant": "mostly tomfoolery but if you feel like looking at it be my guest"
+      },
+      {
+        "network": "Twitch",
+        "username": "GuLhe_le_GuJ",
+        "url": "https://www.twitch.tv/gulhe_le_guj",
+        "relevant": "Aider des debutant·e·s, faire des projets un peu mi-troll, des jeux aussi et un discord qui marche moyen faute d'une doc d'API plus claire :/"
+      }
+    ],
+    "summary": "Aime développer de manière fluide et créer les conditions de cette fluidité. Intimement convaincu que la communication est la base de notre profession.\nFasciné par ce que l'agilité, le craft, le devOps et d'autres approches (moins populaires ou moins évidentes) ont à apporter en termes de communication et d'aide à la prise de recul.\nAvocat d'une démocratisation des bonnes pratiques du craft (meaningful testing, A-TDD, BDD, commentless, ...), devOps (build as code, semper virens trunk, conteneurisation, ...), ou agile (fervent défenseur des moyens d'actions des équipes pour aboutir à leur autonomie)."
+  },
+  "awards": [
+    {
+      "title": "Top 10 - Catégorie Java",
+      "date": "2015-03-12",
+      "awarder": "Meilleur Dev De France (un concours un peu tout claqué au sol)",
+      "summary": "J'avais fini 7eme/~50.\nC'est un peu la honte d'avoir que ça comme trophée dans ma carrière ...\nMais c'était drôle comme expérience alors bon ^^ Je mets :)",
+      "addendum": "De toutes manières mon boulot c'est moins de \"coder\" que ce n'est de \"développer\".\nLes problématiques du taf c'est bien moins souvent de devoir résoudre des problèmes algorithmiques poilus ou de poncer à fond les capacité d'un langage ou d'un outils (et je suis le premier à le déplorer, c'est fascinant à faire) que ce n'est de la communication, de l'écoute et de la transmission (ce qui est tout aussi passionnant).\nAprès si jamais vous cherchez un gars pour lui faire faire des katas toute la journée : vous freinez pas hein, je suis chaud d'ouf."
+    }
+  ],
+  "education": [
+    {
+      "endDate": "2010",
+      "area": "Miage",
+      "studyType": "Master",
+      "institution": "UFR Sciences et Techniques de Nantes"
+    },
+    {
+      "area": "Formations suivies",
+      "studyType": "Professionnelle",
+      "institution": "Divers",
+      "courses": [
+        "TDD – Arolla (2014)",
+        "Spring Officielle – Zenika (2017)",
+        "Docker Officielle – Zenika (2017)",
+        "BDD, DDD & µServices – Arolla (2019)"
+      ]
+    },
+    {
+      "area": "Conférences",
+      "studyType": "Veille",
+      "institution": "Divers",
+      "courses": [
+        "DevOpsRex (2016)",
+        "DEVOXX (2017)",
+        "New Craft (2015, 2018)",
+        "Socrates (2018)"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "OS",
+      "keywords": [
+        "LINUX",
+        "WINDOWS"
+      ]
+    },
+    {
+      "name": "Langages",
+      "keywords": [
+        "JAVA",
+        "TYPESCRIPT",
+        "ES6",
+        "HTML",
+        "CSS",
+        "BASH",
+        "SQL",
+        "SOLIDITY"
+      ]
+    },
+    {
+      "name": "Pratiques",
+      "keywords": [
+        "(A)TDD",
+        "BDD",
+        "{PAIR, MOB}-PROGRAMMING",
+        "BUILD AS CODE",
+        "SCRUM",
+        "KANBAN",
+        "XP"
+      ]
+    },
+    {
+      "name": "Mindsets",
+      "keywords": [
+        "SOFTWARE CRAFT",
+        "AGILITÉ",
+        "DEVOPS",
+        "MAÏEUTIQUE"
+      ]
+    },
+    {
+      "name": "Outils",
+      "keywords": [
+        "INTELLIJ",
+        "{CIRCLE,GITLAB}CI",
+        "MAVEN 📦",
+        "JENKINS",
+        "SONARQUBE",
+        "NPM/YARN 📦",
+        "GIT",
+        "DOCKER 🐋"
+      ]
+    },
+    {
+      "name": "Tests",
+      "keywords": [
+        "JUNIT",
+        "CUCUMBER 🥒",
+        "ASSERTJ",
+        "KARMA",
+        "JASMINE",
+        "MOCHA",
+        "CHAI"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "SPRING (BOOT, CORE, MVC)",
+        "JPA",
+        "WEB-SERVICES (SOAP, REST)",
+        "ANGULAR"
+      ]
+    },
+    {
+      "name": "DataBase",
+      "keywords": [
+        "MYSQL",
+        "ORACLE",
+        "POSTGRESQL"
+      ]
+    },
+    {
+      "name": "Data",
+      "keywords": [
+        "ETHEREUM-BC"
+      ]
+    },
+    {
+      "name": "Aversion",
+      "keywords": [
+        "LAANP - LEGACY AS A NOMINAL PRACTICE"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Maternel"
+    },
+    {
+      "language": "English",
+      "fluency": "Professionnel"
+    },
+    {
+      "language": "Español",
+      "fluency": "Scolaire"
+    }
+  ],
+  "work": [
+    {
+      "startDate": "2022-07",
+      "position": "Projets divers",
+      "name": "Personnel",
+      "highlights": [
+        "Création d'un stream (essentiellement) de développement logiciel",
+        "Écriture",
+        "Père au foyer",
+        "Organisation évènementielle"
+      ],
+      "skills": [
+        "Java", "Bash", "Typescript", "Git", "ATDD", "OBS", "Linux", "Pulse", "Malheureusement pas de Kotlin", "Déplorer qu'il n'y ai que 24h dans une journée"
+      ]
+    },
+    {
+      "startDate": "2021-07",
+      "endDate": "2022-06",
+      "name": "Darty",
+      "position": "Dev Sénior",
+      "description": "Le groupe Darty est un géant de la vente de materiel electro-ménager aux particuliers.",
+      "summary": "Dans une équipe de ~15 personnes, chargé de participer au développement, de suggérer et accompagner les chantiers d'amélioration tant du socle technique que des pratiques de développement.",
+      "highlights": [
+        "Formation à l'ATDD des membres techniques et fonctionnels de l'équipe",
+        "Démocratisation de l'emploi de Cucumber comme outil de base des TU",
+        "Animation de la communauté technique (katas, groupe de discussion, veille partagée)",
+        "Inception de l'usage de mutation testing",
+        "Démocratisation de l'usage de Docker en environnement de dev et en CI",
+        "Multiples refactos pour utiliser le plein potentiel de l'injection de dépendances",
+        "Initiation de l'équipe à Kotlin",
+        "Simplification et rationalisation des tests (la base de test étant largement over-fitting)"
+      ],
+      "skills": [
+        "Java 8", "Java 11", "Javascript", "ATDD", "FTL", "Gradle", "Guice", "Spring", "Git",
+        "bash", "Cucumber", "gitlabCi", "Scrum", "software craft", "devops"
+      ],
+      "location": "Ivry s/ Seine"
+    },
+    {
+      "name": "Alibeez",
+      "description": "Alibeez est une société organisée autour d’une solution de gestion à destination des sociétés de services.",
+      "position": "Dev Sénior",
+      "summary": "Conception et développement du module de webhooks du produit phare de la société.",
+      "startDate": "2020-09",
+      "endDate": "2021-03",
+      "highlights": [
+        "Conception & développement du module",
+        "Assistance sur des sujets annexes urgents",
+        "Installation & Intégration d’un Nexus",
+        "Instauration de rétro & Sensibilisation à l'agilité",
+        "Formations/Sensibilisation sur Git, Semver, Build as code, Modularisation"
+      ],
+      "skills": [
+        "Java", "Javascript", "Vaadin", "Maven", "AspectJ", "Spring", "Library-design", "Git",
+        "bash", "Nexus (management)", "mockito", "Scrum", "software craft", "devops"
+      ],
+      "location": "Paris"
+    },
+    {
+      "position": "Congé parental",
+      "name": "Personnel",
+      "startDate": "2020-01",
+      "endDate": "2020-09"
+    },
+    {
+      "highlights": [
+        "Mentoring autour du TDD et du Clean Code",
+        "Développement de la culture du Pair et du Mob-Programming",
+        "Formations des équipes : Git, Build as code (Why, How, What), ATDD",
+        "Instauration de squads ponctuelles permettant de résorber la dette technique",
+        "Split de deux applications reposant sur un socle commun et initialement fondues en une seule",
+        "Modularisation du projet monolithique (réduction de la complexité globale et des temps de build",
+        "Migration Jenkins \"classique\" vers GitlabCi (build as code)",
+        "Migration Java7/JOnAS vers Java8/Tomcat",
+        "Accompagnement sur divers points de douleurs (golden masters mal maîtrisés, transparence fonctionnelle, transpiration technique, isolation ops/devs, outillages inadaptés, ...)"
+      ],
+      "skills": [
+        "Java", "TypeScript", "angular", "REST", "CQRS", "maven", "npm", "Git", "bash",
+        "gitlabCi", "jenkins", "testNg", "mockito", "sonarQube", "Scrum",
+        "software craft", "devops"
+      ],
+      "name": "Orange",
+      "description": "Orange (anciennement France Télécom) est une entreprise française de télécommunications.",
+      "position": "Coach (tech devOps agile) - Dev Sénior",
+      "summary": "Intervention sur le projet SOFT qui permet la prise de commandes au sein des boutiques et sur le site web Orange.",
+      "startDate": "2018-06",
+      "endDate": "2019-11"
+    },
+    {
+      "highlights": [
+        "Définition des objectifs de la formation (TDD, SOLID, Agile)",
+        "Préparation des supports (JS Testing, Git, CI/CD)",
+        "Animation de la formation"
+      ],
+      "summary": "Rédaction et animation de diverses formations à destination de proffessionnel·le·s débutant·e·s",
+      "name": "La Combe du Lion Vert",
+      "description": "La Combe du Lion Vert est une filiale d’Arolla. Elle offre aux développeurs en début de carrière l’opportunité d’améliorer leur professionnalisme dans le développement via une formation intensive de cinq semaines.",
+      "position": "Coach Craft / Formateur",
+      "startDate": "2018-08",
+      "endDate": "2019-12",
+      "location": "Paris"
+    },
+    {
+      "highlights": [
+        "Formateur BDD interne et externe",
+        "Conduite d'entretiens techniques de recrutement"
+      ],
+      "name": "Arolla",
+      "description": "Arolla est une ESN spécialisée sur le Software Craft",
+      "position": "Référent Technique / Formateur",
+      "summary": "Animation d’entretiens techniques (katas) dans le cadre du recrutement des futurs développeurs Arolla. Les entretiens sont menés sous la forme de katas, en pair-programming, et permettent d’évaluer le savoir-faire des candidats en matière de Clean Code (SOLID, KISS, DRY...) et de Software Craft (TDD, Design...).",
+      "startDate": "2018-06",
+      "endDate": "2019-12",
+      "location": "Paris"
+    },
+    {
+      "highlights": [
+        "Git",
+        "Javascript (initiation/avancé)",
+        "Typescript",
+        "Développement en µ-services avec Spring",
+        "Initiation à la POO"
+      ],
+      "name": "Zenika",
+      "description": "Zenika est une ESN et organisme de formation sur les sujets du développement informatique professionnel.",
+      "position": "Formateur",
+      "summary": "Animation de diverses sessions de formations à destination de professionnels de l’informatique",
+      "startDate": "2015-01",
+      "endDate": "2018-04",
+      "location": "Paris"
+    },
+    {
+      "highlights": [
+        "Fondation et définition de l'identité de l'entité",
+        "Élaboration d'un socle technique et de principes de développement rigoureux et pragmatiques",
+        "Plusieurs projets réussis avec mise en place de contextes techniques à l'état de l'art"
+      ],
+      "skills": [
+        "Java 8", "Spring boot", "Es6", "Bdd", "Cucumber", "(A)Tdd", "Circle-Ci", "Docker",
+        "Rancher", "Maven", "Yarn", "Git", "Synergy", "Pair programming", "Review", "Bash"
+      ],
+      "name": "Zenika Labs",
+      "description": "Zenika labs est une entité dédiée à l'accompagnement de démarrage rapide de projets à l'état de l'art.",
+      "position": "Fondateur, porteur d’offre et dev sénior",
+      "summary": "Le Zenika labs est né du désir d’aider des projets à démarrer rapidement mais néanmoins de manière pérenne après une phase de MVP permettant de valider une (ou plusieurs) idée·s originale·s dans un cadre technologique innovant.\nAu sein d’une équipe pluridisciplinaire (consultants dév, UX/UI, PO intégrant des internes du groupe client), intervention sur les tâches suivantes : Étude de l’idée, découpage et suggestions fonctionnelles, exploration technique et UX, Bootstrapping du projet (repository, architecture, CI, CD), Cycles courts de 2 semaines comprenant écriture des spécifications exécutables (Gherkin), implémentation de ces dernières (tests + fonctionnalités), approfondissement UX, démo",
+      "startDate": "2016-03",
+      "endDate": "2017-11"
+    },
+    {
+      "startDate": "2016-04",
+      "endDate": "2017-04",
+      "name": "ING",
+      "position": "Dev Sénior",
+      "description": "Le groupe ING est une institution financière internationale de banque-assurance d’origine 🇳🇱, Elle était (en 2013) la 6e entreprise mondiale dans le secteur bancaire.",
+      "summary": "Au sein du Département des produits d’investissement, sur un plateau de ~120 personnes, intervention dans une équipe de 10 : Développement du site commercial, de l’outillage client et intégration des nouvelles Offres",
+      "highlights": [
+        "Formation continue des équipes : pratiques de versionning (semver & Git)",
+        "DevOps/Testing/Craft/Agile advocate"
+      ],
+      "skills": [
+        "Java 7", "Jsf/Jsp", "Maven", "Safe", "Git", "Git-flow", "Bit Bucket", "Es5", "Cucumber",
+        "JIRA (advanced usage)"
+      ]
+    },
+    {
+      "startDate": "2014-11",
+      "endDate": "2016-04",
+      "name": "Enedis",
+      "position": "Dev Sénior",
+      "description": "Linky est le compteur électrique communiquant développé par Enedis en application de directives européennes préconisant la généralisation de ce type de compteurs.",
+      "summary": "Développement au sein de l’équipe LU (30 personnes)",
+      "highlights": [
+        "Développement sur l’interfaces locales \"ILoc\" (accès technique via RJ-45)",
+        "Formation et conduite de la migration du projet de SVN vers Git.",
+        "Formation et accompagnement à l’adoption du BDD à l'aide de Gherkin et formation des devs à Cucumber. 🥒",
+        "Développement de l’outillage de test",
+        "Remplacement de tous les \"sleep\" utilisés en test par un mécanisme de \"polling\" résultant en un gain de 10h+(sur 14) à chaque exécution des batteries de tests",
+        "Acculturation à l'emploi des mocks (anciennement les tests se faisant à l’aide de briques réels du système, elles même en développement et, donc, non fiables)."
+      ],
+      "skills": ["Java 8", "Java 4 😓", "PHP 5.2 😰", "Cucumber", "Git", "aspectJ", "Spring"]
+    },
+    {
+      "startDate": "2014-05",
+      "endDate": "2014-08",
+      "name": "WeekenDesk SmartHoliday",
+      "position": "Développeur",
+      "summary": "Conception et développement du système de gestion et de vente en ligne de l'entreprise",
+      "skills": ["Java 7", "Java 8", "Groovy", "Hibernate", "Mongodb", "Es5", "Git", "Jasmine", "Junit", "Backbone"]
+    },
+    {
+      "startDate": "2013-07",
+      "endDate": "2014-03",
+      "name": "Aram - Ionia",
+      "position": "Développeur",
+      "description": "Projet Indépendant",
+      "summary": "Création, conception et développement d'un site de paris sportifs.",
+      "skills": [
+        "Java 7", "Spring Boot", "Jetty", "Hibernate", "Angularjs", "MySql", "mvn", "Gitlab",
+        "Trello", "Junit", "Nginx", "MVC"
+      ]
+    },
+    {
+      "startDate": "2013-01",
+      "endDate": "2013-06",
+      "name": "Biomérieux/Sony Music/Mairie de Montreuil",
+      "position": "Développeur",
+      "description": "Programme de partage de compétence et d'expérience",
+      "summary": "Accompagnement sur Liferay de diverses équipes à distance.",
+      "skills": [
+        "Java 6", "Struts", "Spring", "Hibernate", "Velocity", "Jsp", "Taglibs", "Portlets",
+        "Liferay 6", "Ant", "Lxc", "Svn"
+      ]
+    },
+    {
+      "startDate": "2012-10",
+      "endDate": "2012-12",
+      "name": "Groupe Seb",
+      "position": "Développeur",
+      "description": "Seb (pour Société d'Emboutissage de Bourgogne) ",
+      "summary": "Développement et intégration, en régie, du site \"leFoodle\"",
+      "skills": [
+        "Django", "Sass/Scss", "Compass", "Javascript", "Prototype", "Knockout", "pic (Jenkins)",
+        "Git", "Python"
+      ]
+    },
+    {
+      "startDate": "2012-06",
+      "endDate": "2012-06",
+      "name": "Europeana",
+      "position": "Auditeur Technique",
+      "description": "Projet de bibliothèque numérique publique de la Commission européenne",
+      "summary": "Audit technique et fonctionnel, en mission à Den Haag, d'un portail de projets relatifs à l'histoire de l'art, des œuvres et leur partage.",
+      "skills": ["Java 6", "Tomcat 5", "MySql", "Struts", "Liferay 6", "Velocity", "jStl"]
+    },
+    {
+      "startDate": "2011-08",
+      "endDate": "2012-09",
+      "name": "Ministère de la Culture et de la Communication",
+      "position": "Développeur",
+      "summary": "Développement et intégration dans le cadre de la refonte d'un portail intranet",
+      "highlights": ["Premier contact concret avec l’agilité"],
+      "skills": [
+        "Java 6", "Struts", "Spring", "Hibernate", "Velocity", "Jsp", "Taglibs", "Servlets",
+        "Portlets", "Solr", "Liferay 6", "Scrum", "Ant", "Continuum", "Lxc", "SVN"
+      ]
+    },
+    {
+      "startDate": "2011-05",
+      "endDate": "2011-07",
+      "name": "ETNIC / Ministère de la Communauté Francophone Wallonie-Bruxelles",
+      "position": "Formateur Liferay",
+      "summary": "Conseil et formation, en mission, d'une équipe démarrant un projet de portail intranet",
+      "highlights": ["Mission de formation à l'étranger (c'est vachement intimidant)"],
+      "skills": [
+        "Java 6", "Struts", "Spring", "Hibernate", "Velocity", "Jsp", "Taglibs", "Servlets", "Portlets",
+        "Liferay 6", "Ant"
+      ]
+    },
+    {
+      "startDate": "2010-10",
+      "endDate": "2011-11",
+      "name": "Canson HamelinBrand",
+      "position": "Développeur",
+      "description": "Canson HamelinBrand est une marque de materiel destiné aux arts plastiques.",
+      "summary": "Développement et intégration des v2 et v3 du site communautaire \"La Tribu Des artistes\", site orienté partage d'images.",
+      "highlights": [
+        "Design et implémentation du système de migration \"lazy\" du stockage des images en DB vers un stockage FS basé sur un concept de séparation interface/implémentation en mode delegates et injection de dépendances que je renierai pas si je le faisais aujourd'hui, ma parole j'avais été franchement inspiré sur ce coup là.",
+        "Premiers contacts avec la conteneurisation via Lxc qui est considéré par certain·e·s comme un des ancêtres de Docker"
+      ],
+      "skills": [
+        "Java 6", "Struts", "Spring", "Hibernate", "Velocity", "Jsp", "Taglibs", "Servlets", "Portlets",
+        "Solr", "Liferay 5", "Ant", "Lxc", "Svn"
+      ]
+    }
+
+  ],
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/7095651fbbb593d2c5dc2db3095412b170d74d2e/schema.json?comment=yup+I+link+to+commits+but+this+was+master+when+I+got+it",
+  "meta": {
+    "theme": "elegant",
+    "why that theme": "I'm not really original nor inspired ...",
+    "roadmap as an easter egg" : [
+      "Faire mon i18n-eur de json (j4n ?) pour passer façilement le cv en d'autres langues",
+      "en faire une implem en bash",
+      "en faire une implem en react",
+      "forker un theme qui me plait bien et l'adapter de manière à pouvoir déplier les infos cachées facilement"
+    ]
+  }
+}
