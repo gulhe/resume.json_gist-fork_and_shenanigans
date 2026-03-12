@@ -184,12 +184,45 @@
   ],
   "work": [
     {
+      "startDate": "2025-03",
+      "position": "Projets divers",
+      "name": "Personnel",
+      "highlights": [
+        "Écriture",
+        "Père au foyer",
+        "Contributions Pro Bono à des projets évènementiels participatifs"
+      ],
+      "skills": [
+        "Java", "Bash", "Apps Script (littéralement du JS en moins bien)", "Git", "Linux", "Malheureusement TOUJOURS pas de Kotlin"
+      ]
+    },
+    {
+      "startDate": "2024-11",
+      "endDate": "2025-03",
+      "name": "Datanumia",
+      "position": "Coach d'équipe",
+      "description": "Datanumia (filiale du groupe EDF) est une entreprise qui a pour mission d'outiller et accompagner les acteurs privés comme particuliers pour suivre, piloter et rationaliser leur consommation énergétique.",
+      "summary": "Chargé d'aider une équipe en difficultés à reprendre en main son scope, sa coopération interne comme externe et l'efficacité dont elle était pleinement capable.",
+      "highlights": [
+        "Réinstauration d'une dynamique de communication coopérative (plutôt que compétitive/conflictuelle)",
+        "Mise en avant active de la valeur des apports de chacun·e",
+        "Reflexions sur les causes internes/externes/organisationnelles des dysfonctionnements qui entravaient le bon fonctionnement de l'équipe",
+        "Aide à la reprise en main (rationalisation/ségmentation/consignation) du périmètre fonctionnel",
+        "Accompagnement du QA dans une appropriation plus entière de Cucumber"
+      ],
+      "skills": [
+        "Java 17", "Cucumber", "ATDD", "Écoute active", "Spring", "Maven", "Git",
+        "bash", "Scrum", "software craft", "devops"
+      ],
+      "location": "Courbevoie"
+    },
+    {
       "startDate": "2022-07",
+      "endDate": "2024-11",
       "position": "Projets divers",
       "name": "Personnel",
       "highlights": [
         "Création d'un stream (essentiellement) de développement logiciel",
-        "Écriture",
         "Père au foyer",
         "Organisation évènementielle"
       ],
