@@ -7,6 +7,6 @@ et voili voilou
 
 pour générer
 ```bash
-resume export resume.pdf --theme jdambron-fr
+resume export -r <input> <output>.pdf --theme jdambron-fr
 ```
 Et voili voilou

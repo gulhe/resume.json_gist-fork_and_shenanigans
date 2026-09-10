@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "jsonresume-theme-jdambron-fr": "^1.2.0"
+    "jsonresume-theme-jdambron-fr": "1.2.0",
+    "jsonresume-theme-jdambron": "1.3.0"
   }
 }
